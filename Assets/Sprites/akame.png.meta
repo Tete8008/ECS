@@ -1,0 +1,3893 @@
+fileFormatVersion: 2
+guid: 9e01aa51f63d37a4fb781550b0a2422b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8612055424609945923
+    second: akame_0
+  - first:
+      213: 4448072088999862845
+    second: akame_1
+  - first:
+      213: 1662634627460409026
+    second: akame_2
+  - first:
+      213: -5704188355175611745
+    second: akame_3
+  - first:
+      213: 3310022231647505377
+    second: akame_4
+  - first:
+      213: 6872009523628075926
+    second: akame_5
+  - first:
+      213: 5915395462282573498
+    second: akame_6
+  - first:
+      213: -1420300985442874979
+    second: akame_7
+  - first:
+      213: 600791181041063007
+    second: akame_8
+  - first:
+      213: -793273377780103901
+    second: akame_9
+  - first:
+      213: -5867312333927947132
+    second: akame_10
+  - first:
+      213: -8598363413785033721
+    second: akame_11
+  - first:
+      213: 3510120505538059321
+    second: akame_12
+  - first:
+      213: 4414066668481350439
+    second: akame_13
+  - first:
+      213: 5269404912423500293
+    second: akame_14
+  - first:
+      213: 97878062540462858
+    second: akame_15
+  - first:
+      213: -613470050664283156
+    second: akame_16
+  - first:
+      213: 6529971564828764385
+    second: akame_17
+  - first:
+      213: 4547007791022226023
+    second: akame_18
+  - first:
+      213: 560565230024115270
+    second: akame_19
+  - first:
+      213: 3543333249547050157
+    second: akame_20
+  - first:
+      213: 8570465034753991297
+    second: akame_21
+  - first:
+      213: 4400702661204473593
+    second: akame_22
+  - first:
+      213: 8301013439373886458
+    second: akame_23
+  - first:
+      213: -5368203930315415570
+    second: akame_24
+  - first:
+      213: -7626852893834750265
+    second: akame_25
+  - first:
+      213: -8266186300811820013
+    second: akame_26
+  - first:
+      213: -2979098006417318394
+    second: akame_27
+  - first:
+      213: 147004845546419935
+    second: akame_28
+  - first:
+      213: -2139015154590064533
+    second: akame_29
+  - first:
+      213: 3133752391857430228
+    second: akame_30
+  - first:
+      213: 154124831339366941
+    second: akame_31
+  - first:
+      213: 4732410439370159754
+    second: akame_32
+  - first:
+      213: -6461395135835581829
+    second: akame_33
+  - first:
+      213: -2618099106086942894
+    second: akame_34
+  - first:
+      213: 419184076528934029
+    second: akame_35
+  - first:
+      213: -6619391913536911706
+    second: akame_36
+  - first:
+      213: 338078318843542550
+    second: akame_37
+  - first:
+      213: 270384338630587735
+    second: akame_38
+  - first:
+      213: 1933395741110679714
+    second: akame_39
+  - first:
+      213: -8381076888751989929
+    second: akame_40
+  - first:
+      213: -3012296541306209108
+    second: akame_41
+  - first:
+      213: 6664025504665509657
+    second: akame_42
+  - first:
+      213: 8727584958090344929
+    second: akame_43
+  - first:
+      213: 5451612021078555734
+    second: akame_44
+  - first:
+      213: -6674185897066975080
+    second: akame_45
+  - first:
+      213: 5251063231600257471
+    second: akame_46
+  - first:
+      213: -3727407482158577288
+    second: akame_47
+  - first:
+      213: 7273747561913518744
+    second: akame_48
+  - first:
+      213: -868201597255356155
+    second: akame_49
+  - first:
+      213: -760634851543416359
+    second: akame_50
+  - first:
+      213: -8382531723244143813
+    second: akame_51
+  - first:
+      213: 2701655643706833004
+    second: akame_52
+  - first:
+      213: 9015339322995244223
+    second: akame_53
+  - first:
+      213: -1957390706190256211
+    second: akame_54
+  - first:
+      213: -373852437139915746
+    second: akame_55
+  - first:
+      213: 4744783175631134932
+    second: akame_56
+  - first:
+      213: -1447213450681417621
+    second: akame_57
+  - first:
+      213: -7100500997929557588
+    second: akame_58
+  - first:
+      213: 7790264456478769363
+    second: akame_59
+  - first:
+      213: -3418681643844434684
+    second: akame_60
+  - first:
+      213: 2193864001807889647
+    second: akame_61
+  - first:
+      213: 6235231716292231918
+    second: akame_62
+  - first:
+      213: -7106950953018456607
+    second: akame_63
+  - first:
+      213: 8746303670422088042
+    second: akame_64
+  - first:
+      213: -1386131072130433799
+    second: akame_65
+  - first:
+      213: 3172456950228250420
+    second: akame_66
+  - first:
+      213: 6281844474251452092
+    second: akame_67
+  - first:
+      213: 1445633176100265168
+    second: akame_68
+  - first:
+      213: 7993009707980348133
+    second: akame_69
+  - first:
+      213: 1273237960499830056
+    second: akame_70
+  - first:
+      213: 2057622719478543160
+    second: akame_71
+  - first:
+      213: -2993197555147584131
+    second: akame_72
+  - first:
+      213: 1393107161046616444
+    second: akame_73
+  - first:
+      213: -3706286969100484701
+    second: akame_74
+  - first:
+      213: -6964068106398574535
+    second: akame_75
+  - first:
+      213: -2696082484212656394
+    second: akame_76
+  - first:
+      213: 2972362192525237676
+    second: akame_77
+  - first:
+      213: -892277711801090273
+    second: akame_78
+  - first:
+      213: -5171463863473777367
+    second: akame_79
+  - first:
+      213: 797871448782073686
+    second: akame_80
+  - first:
+      213: -5974956087543172782
+    second: akame_81
+  - first:
+      213: -4171528954421688760
+    second: akame_82
+  - first:
+      213: 5397201929207971312
+    second: akame_83
+  - first:
+      213: -7088333862751402265
+    second: akame_84
+  - first:
+      213: -6075396878642862633
+    second: akame_85
+  - first:
+      213: -6462041513307087524
+    second: akame_86
+  - first:
+      213: 8724432947065899938
+    second: akame_87
+  - first:
+      213: 286745013762994298
+    second: akame_88
+  - first:
+      213: -4416611125402046446
+    second: akame_89
+  - first:
+      213: 853340109971245645
+    second: akame_90
+  - first:
+      213: -3707492732319661048
+    second: akame_91
+  - first:
+      213: 8497639817900118441
+    second: akame_92
+  - first:
+      213: -4527444283120759245
+    second: akame_93
+  - first:
+      213: 3826000733253227268
+    second: akame_94
+  - first:
+      213: 8816297273761807631
+    second: akame_95
+  - first:
+      213: 2696396241919289074
+    second: akame_96
+  - first:
+      213: -2651269501483947116
+    second: akame_97
+  - first:
+      213: -529425487446335297
+    second: akame_98
+  - first:
+      213: 2529085475035330264
+    second: akame_99
+  - first:
+      213: 5789009946303133211
+    second: akame_100
+  - first:
+      213: 8186762198961462979
+    second: akame_101
+  - first:
+      213: 8380104039292437108
+    second: akame_102
+  - first:
+      213: -4416523636961305856
+    second: akame_103
+  - first:
+      213: -7166886073148042114
+    second: akame_104
+  - first:
+      213: -1171326820746595728
+    second: akame_105
+  - first:
+      213: 8826606526506704810
+    second: akame_106
+  - first:
+      213: -7158160489765844053
+    second: akame_107
+  - first:
+      213: 8796563396567727114
+    second: akame_108
+  - first:
+      213: -5285639275026583729
+    second: akame_109
+  - first:
+      213: 4483890470215090471
+    second: akame_110
+  - first:
+      213: -6082928677850527726
+    second: akame_111
+  - first:
+      213: -2200303195728498839
+    second: akame_112
+  - first:
+      213: 2279610274709763071
+    second: akame_113
+  - first:
+      213: -1627494544847774173
+    second: akame_114
+  - first:
+      213: -7433639964689828356
+    second: akame_115
+  - first:
+      213: -8664188099034350193
+    second: akame_116
+  - first:
+      213: 8212005226725573840
+    second: akame_117
+  - first:
+      213: 6628128925029016142
+    second: akame_118
+  - first:
+      213: 1086006347334213873
+    second: akame_119
+  - first:
+      213: -6759888680823316659
+    second: akame_120
+  - first:
+      213: 6747812917745970658
+    second: akame_121
+  - first:
+      213: 9145523128872201938
+    second: akame_122
+  - first:
+      213: 1144657447598203897
+    second: akame_123
+  - first:
+      213: 5842045407274484224
+    second: akame_124
+  - first:
+      213: -8250631618757379218
+    second: akame_125
+  - first:
+      213: -624927211005416306
+    second: akame_126
+  - first:
+      213: 1327574358474718988
+    second: akame_127
+  - first:
+      213: -237592536130600337
+    second: akame_128
+  - first:
+      213: 710590340422780965
+    second: akame_129
+  - first:
+      213: -1478566420569609648
+    second: akame_130
+  - first:
+      213: -4042447140551279776
+    second: akame_131
+  - first:
+      213: 4213386739313580755
+    second: akame_132
+  - first:
+      213: -6070953573872769120
+    second: akame_133
+  - first:
+      213: 3402255792044660725
+    second: akame_134
+  - first:
+      213: -4504986112097270031
+    second: akame_135
+  - first:
+      213: -8951392967512536022
+    second: akame_136
+  - first:
+      213: 4208475008844180858
+    second: akame_137
+  - first:
+      213: -2252348094529621802
+    second: akame_138
+  - first:
+      213: -1588747721322758756
+    second: akame_139
+  - first:
+      213: -4213917565038057820
+    second: akame_140
+  - first:
+      213: 5889112603829182111
+    second: akame_141
+  - first:
+      213: -4083755042552167245
+    second: akame_142
+  - first:
+      213: 5610728396181643455
+    second: akame_143
+  - first:
+      213: 74735744220071144
+    second: akame_144
+  - first:
+      213: -1982679767820801733
+    second: akame_145
+  - first:
+      213: -5339925305328654940
+    second: akame_146
+  - first:
+      213: 5797765366634395113
+    second: akame_147
+  - first:
+      213: -9172017906957157263
+    second: akame_148
+  - first:
+      213: -2301966074529052610
+    second: akame_149
+  - first:
+      213: 8649727529661145344
+    second: akame_150
+  - first:
+      213: -225140214502670124
+    second: akame_151
+  - first:
+      213: -3703036901636189077
+    second: akame_152
+  - first:
+      213: 7929086445119948894
+    second: akame_153
+  - first:
+      213: 1807010365202328988
+    second: akame_154
+  - first:
+      213: 2810807857628765994
+    second: akame_155
+  - first:
+      213: 2087028110086298619
+    second: akame_156
+  - first:
+      213: 7240492237323462419
+    second: akame_157
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: akame_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2370
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a695cc95471b2a4e8d0c4d38c1effc5
+      internalID: 8612055424609945923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 2370
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e05d898471aa6f4489ff8c0f24fbaaf
+      internalID: 4448072088999862845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 2370
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4caaa9642902d34e921f17773201a21
+      internalID: 1662634627460409026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 2370
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5930dd51a2ba894d9182443fcd9dc13
+      internalID: -5704188355175611745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 2370
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4645ad2751e8c548a55bf3fd1ccd9ce
+      internalID: 3310022231647505377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_5
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 2370
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a601dd50c8bb4b45a3a9a4cd2e3d4b3
+      internalID: 6872009523628075926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_6
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2371
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa5fff2d666892498e2b98e6d93c22a
+      internalID: 5915395462282573498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_7
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 2371
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8f354e9231b8e4c8437ae3f2d562e4
+      internalID: -1420300985442874979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_8
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 2371
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4505880dac612d34991c7c19b87aae1c
+      internalID: 600791181041063007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_9
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 2372
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935621bc90d5e4f479c0b592c66f9edc
+      internalID: -793273377780103901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_10
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 2382
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4230e6c7db364ee4494b20bca9f58ec2
+      internalID: -5867312333927947132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_11
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 2383
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a543ee0531a9a46b9997b505d86a80
+      internalID: -8598363413785033721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_12
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 2380
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ae3c3e0e767144d80dcc44557059a6
+      internalID: 3510120505538059321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_13
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 2270
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d118d0d1504c4c4ba0edf15920a5c6a
+      internalID: 4414066668481350439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_14
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 2271
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3006c5cc5ace149439c0c580daead25e
+      internalID: 5269404912423500293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_15
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 2271
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707c6720814fa6548a652034ac734c80
+      internalID: 97878062540462858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_16
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 2272
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba8528edd2d34340a106cfa42b1f8f0
+      internalID: -613470050664283156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_17
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 2309
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4d6072c5db62e40870c02e10cbf5a4
+      internalID: 6529971564828764385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_18
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 2309
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78723688027c1d4408816aba39df8fa2
+      internalID: 4547007791022226023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_19
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2165
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4370e9d0241a7eb43b8c79695c078d13
+      internalID: 560565230024115270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_20
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 2169
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9629cfbbb8b8de48902cd2de662d7d8
+      internalID: 3543333249547050157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_21
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2167
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c0405730b2c6f47a90a2a11e0794a2
+      internalID: 8570465034753991297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_22
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 2166
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203539c84539f1c41be7c6588fdc5324
+      internalID: 4400702661204473593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_23
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 2168
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274b599a7edaa28428e549ab5c2d98c8
+      internalID: 8301013439373886458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_24
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 2171
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e7ef72b118afa43b123575d4ef21e6
+      internalID: -5368203930315415570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_25
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 2169
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb997bab7d4d8b844868442214fa2b48
+      internalID: -7626852893834750265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_26
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 2168
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff707a68158db5e4fac941d3c896aa4b
+      internalID: -8266186300811820013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_27
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2056
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9483e847e8322a4c9a51799246d927e
+      internalID: -2979098006417318394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_28
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2057
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125b19c97998a7840a58ce2a5aa08d3e
+      internalID: 147004845546419935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_29
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 2056
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfd275161141664dab11a26e12604cb
+      internalID: -2139015154590064533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_30
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 2055
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e502e497818bfec4c850ffa263ede00f
+      internalID: 3133752391857430228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_31
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 2053
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed945c86059d23140905c087727bd772
+      internalID: 154124831339366941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_32
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 2057
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5126a2c446bbf334d904b44871a467f6
+      internalID: 4732410439370159754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_33
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 2057
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9de2217d846bd041a1dd2a2732a6de7
+      internalID: -6461395135835581829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_34
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1932
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7185b80ae43c06b46bb3027dd8c1c9b4
+      internalID: -2618099106086942894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_35
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1933
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03dbffe299738194aa9a5c2c25755230
+      internalID: 419184076528934029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_36
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1936
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b45b722c8571d4fa3f2c066e89cba3
+      internalID: -6619391913536911706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_37
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1935
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fc55a77e6423345927458f1fb2c506
+      internalID: 338078318843542550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_38
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1939
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56915461953fbc41b5219faac7deaa5
+      internalID: 270384338630587735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_39
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1952
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85e675d375ba1144856e861fb0047aa
+      internalID: 1933395741110679714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_40
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1957
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3767f77147f1d5b41bfaad887bb348a3
+      internalID: -8381076888751989929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_41
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1949
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fc081cdd3559e469fba9a58a16cf8b
+      internalID: -3012296541306209108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_42
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1942
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a53657468f798d4a82a1def7ecdaca0
+      internalID: 6664025504665509657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_43
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1941
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384d141d77f51894fa75330ac7eb2c71
+      internalID: 8727584958090344929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_44
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1952
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75244399acc54344f8c94c5a763d11dc
+      internalID: 5451612021078555734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_45
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1941
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bee1abb4c02d704ebad4c6b6200598c
+      internalID: -6674185897066975080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_46
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1944
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57dc83b0753713f4ca2325e1185396ab
+      internalID: 5251063231600257471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_47
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1793
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fa912360243e1438d6b5a86238d3ff
+      internalID: -3727407482158577288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_48
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1793
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b238094c77288ff4e96f50ca09c8ab57
+      internalID: 7273747561913518744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_49
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1794
+        width: 73
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d478487269663394bba3f304a9883a60
+      internalID: -868201597255356155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_50
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1797
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0824de12a19e81f479cc70bcfd78a4b1
+      internalID: -760634851543416359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_51
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1805
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe2c0ac2c998ce4688bbd0688520ba1
+      internalID: -8382531723244143813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_52
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1797
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad930336a6edb244e88db64fc7b634c7
+      internalID: 2701655643706833004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_53
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1805
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef9407de2e1a02488bee12ec9a0a853
+      internalID: 9015339322995244223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_54
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1797
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8b2307a13b2c74e96c037fe0a00a00
+      internalID: -1957390706190256211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_55
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1648
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef18d4548aecd694b801c3e3e6dca3eb
+      internalID: -373852437139915746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_56
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1648
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ab179be15f6bc4c8e4a60ba2e1f58c
+      internalID: 4744783175631134932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_57
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1649
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d79d83eef81af1459e6cc132267a54c
+      internalID: -1447213450681417621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_58
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1651
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bda9916e30a7e468d014f77432c775
+      internalID: -7100500997929557588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_59
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1703
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45272a800d3b15248b5ea850b6c3ea4d
+      internalID: 7790264456478769363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_60
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1653
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b51b8af4081b0745ae9ba4060cf5632
+      internalID: -3418681643844434684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_61
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1654
+        width: 72
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf89dae64971214cb887bc32928378a
+      internalID: 2193864001807889647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_62
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1655
+        width: 72
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0504465936d245743afff40a36baba2b
+      internalID: 6235231716292231918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_63
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1508
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6675079b9e9344943b83621e93ff027d
+      internalID: -7106950953018456607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_64
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1507
+        width: 32
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54dd0553cd183304e80c5fea296402e4
+      internalID: 8746303670422088042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_65
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1509
+        width: 29
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8b56a195d53204b9f5754143eefa6c
+      internalID: -1386131072130433799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_66
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1510
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695a23f6cd8014f40aca9aad69657f47
+      internalID: 3172456950228250420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_67
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1511
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e11dac5c665c345ae458c329d2c0f4
+      internalID: 6281844474251452092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_68
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1512
+        width: 72
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a16a9ed143fa364fa0cb695408ff9e2
+      internalID: 1445633176100265168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_69
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1513
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4cb93786654a749b06c6d4d8f89b82
+      internalID: 7993009707980348133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_70
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1515
+        width: 40
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e277c9215265ce4fa17c5ca40ceda84
+      internalID: 1273237960499830056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_71
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1360
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090ec884caa94604eb6d6a1639ecbc3c
+      internalID: 2057622719478543160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_72
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1361
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0acac000ba7dfea48a08bd089dae630d
+      internalID: -2993197555147584131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_73
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1364
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617a3ee7f01876843afd8931f37a67a3
+      internalID: 1393107161046616444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_74
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1364
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7ac696690b46a468a616ec53e451f0
+      internalID: -3706286969100484701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_75
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1366
+        width: 55
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af5b2ba6b3aad34893ae64eab892b20
+      internalID: -6964068106398574535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_76
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1366
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54881cc0dc8038c47ba48f42aa111cc3
+      internalID: -2696082484212656394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_77
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1366
+        width: 56
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94927cb442a8774e883c27db2046167
+      internalID: 2972362192525237676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_78
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1375
+        width: 56
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b282815be029c746922bc83680f6acd
+      internalID: -892277711801090273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_79
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1230
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dabe1e70b48d7d4f8075c74215dbce4
+      internalID: -5171463863473777367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_80
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1231
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8e3252f74590149913bb40963faec9
+      internalID: 797871448782073686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_81
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1233
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d942cec4adcdc924098962528bf71cfb
+      internalID: -5974956087543172782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_82
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1232
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55493902e846b84aae1ae73656e563e
+      internalID: -4171528954421688760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_83
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1234
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7f6fda3aa17a446a30da6df57e1bad
+      internalID: 5397201929207971312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_84
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1234
+        width: 73
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c1f2561cb0a8648896a474d450e141
+      internalID: -7088333862751402265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_85
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1234
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594aa671d40cf6746bef1f411172d77b
+      internalID: -6075396878642862633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_86
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1235
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e5be39fd7438e43b34e9c61eb44fba
+      internalID: -6462041513307087524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_87
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1230
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0f01e0b60a88548a2916ed0cae7f96
+      internalID: 8724432947065899938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_88
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1231
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69db0e70e506854f92626a059a52dad
+      internalID: 286745013762994298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_89
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1232
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7714de3ed9cf67f43bec722162ec9e25
+      internalID: -4416611125402046446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_90
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1117
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696414f3fdf36e74e99180528f63e797
+      internalID: 853340109971245645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_91
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1119
+        width: 73
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d23cb10b4126394694f77a942bbcee7
+      internalID: -3707492732319661048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_92
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1114
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef309568e9491a746ac141ad904eebb0
+      internalID: 8497639817900118441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_93
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1130
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525b32e2a0b194f47a302a72a62b9775
+      internalID: -4527444283120759245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_94
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1111
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa463dec4dddc04180411be5944968f
+      internalID: 3826000733253227268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_95
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1127
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bafb07602a6cc43824e2450058dc08
+      internalID: 8816297273761807631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_96
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1111
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d7978fe115f8148a03d23d3e6d8ee9
+      internalID: 2696396241919289074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_97
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1109
+        width: 39
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9158e478f066e4c4182fdf20985a97e5
+      internalID: -2651269501483947116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_98
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1008
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eedf530ec0b2f44390624980d1835e9
+      internalID: -529425487446335297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_99
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1005
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ff4d406e1dec742ac08aa299b9da42
+      internalID: 2529085475035330264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_100
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1004
+        width: 61
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3dd98d4a45ec234bbdd14666bea2526
+      internalID: 5789009946303133211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_101
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1005
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b300229a636dc4893dd7d5353cfc27
+      internalID: 8186762198961462979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_102
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1008
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e968da919c01c42aaa9044c6595b70
+      internalID: 8380104039292437108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_103
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1007
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52dbfdda8026d964592198484bfb5f3d
+      internalID: -4416523636961305856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_104
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1007
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a794b435281362a4f8247036bde6cb4e
+      internalID: -7166886073148042114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_105
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 895
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df4e6470f7959f4caf62639e7bc4124
+      internalID: -1171326820746595728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_106
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 895
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01ceddceb88bbd419e21c3ec09e4da1
+      internalID: 8826606526506704810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_107
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 791
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d7fe3f17628554d8bf026fcdb777fb
+      internalID: -7158160489765844053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_108
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 795
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb04bea474d2894f863268b7d66a381
+      internalID: 8796563396567727114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_109
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 798
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc98307370232c48b50e0f16bbb35b5
+      internalID: -5285639275026583729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_110
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 797
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff504c30de9a89a48a75c1efb867ac9a
+      internalID: 4483890470215090471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_111
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 799
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5dafad6ed51764f9b25c6df7edc768
+      internalID: -6082928677850527726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_112
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 802
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8bcbcab06850446a90c621117b63a9
+      internalID: -2200303195728498839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_113
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 803
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f7f253caaa91b43bd5d7c2a047993e
+      internalID: 2279610274709763071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_114
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 808
+        width: 57
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5db07ccabec57b408587b7d0223a34f
+      internalID: -1627494544847774173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_115
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 808
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bb382dc6172c84ea0b65309a514157
+      internalID: -7433639964689828356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_116
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 697
+        width: 56
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeabe06a95267c445ba8766bd934842f
+      internalID: -8664188099034350193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_117
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 698
+        width: 53
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3e8081c4b802c47a35c91643d93e23
+      internalID: 8212005226725573840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_118
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 700
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34273550bed308a4ab1e3fa01ba9027c
+      internalID: 6628128925029016142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_119
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 700
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf56b61e94441f24dbd43cb939eb7c7e
+      internalID: 1086006347334213873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_120
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 700
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681b08dfc275dca4ea7b3ec1a5ce61be
+      internalID: -6759888680823316659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_121
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 699
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01008308c885136419342488b3cb0643
+      internalID: 6747812917745970658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_122
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 700
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857fe5145054d034c84c61acfaa5b875
+      internalID: 9145523128872201938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_123
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 594
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820a0c493f53389499ac1323565df496
+      internalID: 1144657447598203897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_124
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 593
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe85aa2a6306984a90c5351e5f98640
+      internalID: 5842045407274484224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_125
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 596
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b96353b9d91e8a4280d7264e949bb9f
+      internalID: -8250631618757379218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_126
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 597
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf9846a66d53e2458696271473f02c7
+      internalID: -624927211005416306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_127
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 598
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1d6c09e8765cf4fb9b0ff91e1f2bdb
+      internalID: 1327574358474718988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_128
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 519
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce1bb6e1d961934b87cff0386f07f51
+      internalID: -237592536130600337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_129
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 521
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052c2f3b1ca93cd4a87ed1eeabc4ee7d
+      internalID: 710590340422780965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_130
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 521
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099f4b5ca555a374e9ab23d159447b3f
+      internalID: -1478566420569609648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_131
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 522
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b9b3a0d519a84459733facf0b250e7
+      internalID: -4042447140551279776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_132
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 524
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c819ef70b63f1f4aa2fe62d2a61860e
+      internalID: 4213386739313580755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_133
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 408
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ad02192952ea4408e03aff95a30fdc
+      internalID: -6070953573872769120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_134
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 408
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa13191d76423449b9f59cef76788f9
+      internalID: 3402255792044660725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_135
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 410
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cf9325a259ac34f88c03e03bda4435
+      internalID: -4504986112097270031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_136
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 410
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc842aa4566f22640b2ab0b865f30559
+      internalID: -8951392967512536022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_137
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 415
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61dda44800417040a7cee91c12c7f3c
+      internalID: 4208475008844180858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_138
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 290
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c3246359f4e624d866601e12da1b17
+      internalID: -2252348094529621802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_139
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 290
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a546ff37fe5a60e4eae6b2a1dbfe13ca
+      internalID: -1588747721322758756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_140
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 290
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b93b461453bfa546a35d37ff6f3b76a
+      internalID: -4213917565038057820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_141
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 324
+        width: 44
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88705b0aadb21b740b5032b683ef0c11
+      internalID: 5889112603829182111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_142
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 302
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31eebce301b6ff540b9478b57a558393
+      internalID: -4083755042552167245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_143
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 218
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9d525c77cde6b40aca48efe19bb622
+      internalID: 5610728396181643455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_144
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 218
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1212b5d0e3ecc4db670f5012665a2f
+      internalID: 74735744220071144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_145
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 219
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ee6d43b438e3548a41eb635230e57a
+      internalID: -1982679767820801733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_146
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 222
+        width: 60
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae81ec06de964344a226960e8519142
+      internalID: -5339925305328654940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_147
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 136
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1adaeab443afa5c4c8a159f6eb9e2320
+      internalID: 5797765366634395113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_148
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 138
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5747415c02edad343ba9bfcf8392f4de
+      internalID: -9172017906957157263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_149
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 141
+        width: 75
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cff57a4f0b701041847a2cab0837c46
+      internalID: -2301966074529052610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_150
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 142
+        width: 71
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8163aa1b4c27ddd4c9e13b23e8b61792
+      internalID: 8649727529661145344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_151
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 141
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da16e684d6a00b4dba3dfa46310b48d
+      internalID: -225140214502670124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_152
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 56
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7911f7bd9446d488ce3e259a718010
+      internalID: -3703036901636189077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_153
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 56
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25991861974ccf048af720dd902b464e
+      internalID: 7929086445119948894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_154
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 46
+        width: 40
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804401edc693e0d44b0db104a8b5eeee
+      internalID: 1807010365202328988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_155
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 46
+        width: 58
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7d414035650a14a92b5002ac39c864
+      internalID: 2810807857628765994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_156
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 58
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4907aa52a0b46734f8db55d57d3831de
+      internalID: 2087028110086298619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akame_157
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 58
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5cbad03cc55374ba7596d46b41ac81
+      internalID: 7240492237323462419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f8e14a2ceb4b59b46b64b34f265aa96e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
