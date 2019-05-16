@@ -659,6 +659,16 @@ PrefabInstance:
       propertyPath: projectileCount
       value: 10
       objectReference: {fileID: 0}
+    - target: {fileID: 4655007883779508455, guid: 5ecfcb56fcb948549a700ee2d9d819bd,
+        type: 3}
+      propertyPath: projectileMaterial
+      value: 
+      objectReference: {fileID: 2100000, guid: 9c98782515e83fc469f1ec10c1a10fe9, type: 2}
+    - target: {fileID: 4655007883779508455, guid: 5ecfcb56fcb948549a700ee2d9d819bd,
+        type: 3}
+      propertyPath: projectileMesh
+      value: 
+      objectReference: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5ecfcb56fcb948549a700ee2d9d819bd, type: 3}
 --- !u!1 &1975075043

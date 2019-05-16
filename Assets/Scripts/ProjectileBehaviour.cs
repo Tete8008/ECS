@@ -9,7 +9,7 @@ public class ProjectileBehaviour : MonoBehaviour
 
     private void Update()
     {
-        self.position += self.forward * GameManager.instance.projectileSpeed * Time.deltaTime;
+        //self.position += self.forward * GameManager.instance.projectileSpeed * Time.deltaTime;
     }
 
     private void Start()

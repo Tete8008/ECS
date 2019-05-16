@@ -10,11 +10,6 @@ public class InputManager : Singleton<InputManager>
     public KeyCode up;
     public KeyCode down;
 
-    private void Awake()
-    {
-        print("beite");
-    }
-
     private void Update()
     {
         float2 direction=new float2();
