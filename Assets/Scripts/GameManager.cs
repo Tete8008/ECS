@@ -17,7 +17,7 @@ public class GameManager : Singleton<GameManager>
 
     public float playerSpeed=1f;
 
-    public int projectileCount = 5;
+    public int projectileCount = 2;
 
     public float projectileLifeTime=5f;
 
@@ -30,10 +30,10 @@ public class GameManager : Singleton<GameManager>
     MovementJob movementJob;
     JobHandle movementHandle;
 
-    public NativeArray<Entity> projectileEntities;
+    EntityArchetype projectileArchetype;
 
-    public List<Entity> projectilePool;
-    public List<Entity> activeProjectiles;
+
+
 
     private void OnDisable()
     {
@@ -48,87 +48,28 @@ public class GameManager : Singleton<GameManager>
         transforms = new TransformAccessArray(0);
         entityManager = World.Active.EntityManager;
 
-        EntityArchetype projectileArchetype = entityManager.CreateArchetype(
+        projectileArchetype = entityManager.CreateArchetype(
             typeof(MovementComponent),
             typeof(RenderMesh),
             typeof(LocalToWorld),
             typeof(Translation),
             typeof(Rotation),
-            typeof(LifeTimeComponent)
+            typeof(LifeTimeComponent),
+            typeof(BulletTag)
         );
-
-
-        projectileEntities = new NativeArray<Entity>(5000, Allocator.Temp);
-        entityManager.CreateEntity(projectileArchetype, projectileEntities);
-
-        projectilePool = new List<Entity>();
-        activeProjectiles = new List<Entity>();
-
-        for (int i = 0; i < projectileEntities.Length; i++)
-        {
-            Entity entity = projectileEntities[i];
-            /*entityManager.SetSharedComponentData(entity,  new RenderMesh{
-                mesh=projectileMesh,
-                material=projectileMaterial
-            });
-            Color color = entityManager.GetSharedComponentData<RenderMesh>(entity).material.color;
-            entityManager.GetSharedComponentData<RenderMesh>(entity).material.color = new Color(color.r, color.g, color.b, 0);
-            */
-            entityManager.SetComponentData(entity, new MovementComponent
-            {
-                moveSpeed=projectileSpeed,
-                isShot=false
-            });
-
-            entityManager.SetComponentData(entity, new Rotation
-            {
-                Value=quaternion.Euler(math.PI/2,0,0)
-            });
-
-
-            entityManager.SetComponentData(entity, new Translation
-            {
-                Value = new float3(0, 0.05f, 0)
-            });
-
-            entityManager.SetComponentData(entity, new LifeTimeComponent
-            {
-                Value=projectileLifeTime
-            });
-
-
-            entityManager.RemoveComponent<RenderMesh>(entity);
-            projectilePool.Add(entity);
-        }
-        projectileEntities.Dispose();
     }
 
-    /*private void Update()
-    {
-        movementHandle.Complete();
-        movementJob = new MovementJob()
-        {
-            moveSpeed = projectileSpeed,
-            deltaTime = Time.deltaTime
-        };
-
-        movementHandle = movementJob.Schedule(transforms);
-
-        JobHandle.ScheduleBatchedJobs();
-    }*/
 
     public void SpawnProjectiles(int projectileCount,Vector3 playerRotation,Vector3 projectileOriginPosition)
     {
 
         movementHandle.Complete();
+
         transforms.capacity = transforms.length + projectileCount;
         float pc = projectileCount - 1;
 
-        if (projectileCount > projectilePool.Count)
-        {
-            Debug.Log("Plus rien dans la pool");
-            return;
-        }
+        NativeArray<Entity> projectileEntities = new NativeArray<Entity>(projectileCount, Allocator.Temp);
+        entityManager.CreateEntity(projectileArchetype, projectileEntities);
 
         for (int i = 0; i < projectileCount; i++)
         {
@@ -138,7 +79,7 @@ public class GameManager : Singleton<GameManager>
             //transforms.Add(Instantiate(projectilePrefab, projectileOriginPosition, Quaternion.Euler(playerRotation.x, playerRotation.y + angle, playerRotation.z)).transform);
 
 
-            Entity entity = projectilePool[i];
+            Entity entity =entityManager.CreateEntity(projectileArchetype);
             //on ajoute un renderMesh
             entityManager.AddComponent(entity, typeof(RenderMesh));
             entityManager.SetSharedComponentData(entity, new RenderMesh
@@ -159,28 +100,22 @@ public class GameManager : Singleton<GameManager>
 
             entityManager.SetComponentData(entity, new MovementComponent
             {
-                moveSpeed = projectileSpeed,
+                moveSpeed = projectileSpeed
+            });
+
+            entityManager.SetComponentData(entity, new BulletTag
+            {
                 isShot = true
             });
-            activeProjectiles.Add(entity);
+
+
+            entityManager.SetComponentData(entity, new LifeTimeComponent
+            {
+                Value=projectileLifeTime
+            });
         }
-
-        projectilePool.RemoveRange(0, projectileCount);
-        
+        projectileEntities.Dispose();
     }
 
 
-    public void RemoveProjectile(Entity entity,EntityCommandBuffer entityCommandBuffer)
-    {
-        //entityManager.RemoveComponent<RenderMesh>(entity);
-
-
-        entityCommandBuffer.RemoveComponent<RenderMesh>(entity);
-        entityManager.SetComponentData(entity, new MovementComponent
-        {
-            isShot = false
-        });
-        projectilePool.Add(entity);
-        activeProjectiles.Remove(entity);
-    }
 }

@@ -190,7 +190,7 @@ Transform:
   m_GameObject: {fileID: 345240311}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0.049, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 10, y: 10, z: 10}
   m_Children:
   - {fileID: 1059804155}
   - {fileID: 1975075044}
@@ -366,7 +366,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
   m_LocalRotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 0, y: 2.83, z: -0.19}
+  m_LocalPosition: {x: 0, y: 15.52, z: -0.19}
   m_LocalScale: {x: 1, y: 1.0000005, z: 1.0000005}
   m_Children: []
   m_Father: {fileID: 0}
@@ -472,7 +472,7 @@ Transform:
   m_GameObject: {fileID: 1042781489}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 10, y: 10, z: 10}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 3
@@ -646,29 +646,24 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4655007883779508455, guid: 5ecfcb56fcb948549a700ee2d9d819bd,
         type: 3}
-      propertyPath: projectileLifeTime
+      propertyPath: playerSpeed
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4655007883779508455, guid: 5ecfcb56fcb948549a700ee2d9d819bd,
+        type: 3}
+      propertyPath: projectileCount
       value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4655007883779508455, guid: 5ecfcb56fcb948549a700ee2d9d819bd,
         type: 3}
       propertyPath: shootingAngle
-      value: 45
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 4655007883779508455, guid: 5ecfcb56fcb948549a700ee2d9d819bd,
         type: 3}
-      propertyPath: projectileCount
-      value: 10
+      propertyPath: projectileSpeed
+      value: 30
       objectReference: {fileID: 0}
-    - target: {fileID: 4655007883779508455, guid: 5ecfcb56fcb948549a700ee2d9d819bd,
-        type: 3}
-      propertyPath: projectileMaterial
-      value: 
-      objectReference: {fileID: 2100000, guid: 9c98782515e83fc469f1ec10c1a10fe9, type: 2}
-    - target: {fileID: 4655007883779508455, guid: 5ecfcb56fcb948549a700ee2d9d819bd,
-        type: 3}
-      propertyPath: projectileMesh
-      value: 
-      objectReference: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5ecfcb56fcb948549a700ee2d9d819bd, type: 3}
 --- !u!1 &1975075043

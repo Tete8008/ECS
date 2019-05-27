@@ -91,8 +91,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e1370882800d2a345947d2eec9eaea13, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectileSpeed: 5
+  projectileSpeed: 20
   projectilePrefab: {fileID: 8986103553977784132, guid: c3554783e6b420f45a293f8707eedced,
     type: 3}
   shootingAngle: 30
   playerSpeed: 1
+  projectileCount: 2
+  projectileLifeTime: 3
+  projectileMesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+  projectileMaterial: {fileID: 2100000, guid: 9c98782515e83fc469f1ec10c1a10fe9, type: 2}

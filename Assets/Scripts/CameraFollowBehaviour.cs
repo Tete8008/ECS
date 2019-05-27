@@ -9,7 +9,7 @@ public class CameraFollowBehaviour : Singleton<CameraFollowBehaviour>
     private void Update()
     {
         Transform player = PlayerBehaviour.players[0].self;
-        if (!(Mathf.Abs(self.position.x-player.position.x)<=0.075f && Mathf.Abs(self.position.z - player.position.z) <= 0.075f))
+        if (!(Mathf.Abs(self.position.x-player.position.x)<=0.75f && Mathf.Abs(self.position.z - player.position.z) <= 0.75f))
         {
             Vector3 pos = Vector3.Lerp(self.position,player.position,Time.deltaTime*2);
             self.position = new Vector3(pos.x, self.position.y, pos.z);

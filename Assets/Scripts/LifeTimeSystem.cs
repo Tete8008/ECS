@@ -1,26 +1,29 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using Unity.Entities;
+using Unity.Jobs;
 using Unity.Rendering;
 using UnityEngine;
 
-public class LifeTimeSystem : ComponentSystem
+public class LifeTimeSystem : JobComponentSystem
 {
-    protected override void OnUpdate()
+    private EndSimulationEntityCommandBufferSystem endSimulationEntityCommandBufferSystem;
+
+    protected override void OnCreate()
     {
-        Entities.ForEach((Entity entity,ref LifeTimeComponent lifeTimeComponent,ref MovementComponent movementComponent) =>
-        {
-            if (movementComponent.isShot)
-            {
-                lifeTimeComponent.Value -= Time.deltaTime;
-                if (lifeTimeComponent.Value <= 0)
-                {
-                    GameManager.instance.RemoveProjectile(entity, PostUpdateCommands);
-                }
-            }
-            
-        });
-        
+        endSimulationEntityCommandBufferSystem = World.GetOrCreateSystem<EndSimulationEntityCommandBufferSystem>();
+        base.OnCreate();
     }
 
+    protected override JobHandle OnUpdate(JobHandle inputDeps)
+    {
+        LifeTimeJob lifeTimeJob = new LifeTimeJob {
+            entityCommandBuffer = endSimulationEntityCommandBufferSystem.CreateCommandBuffer().ToConcurrent(),
+            deltaTime = Time.deltaTime
+        };
+
+        JobHandle jobHandle = lifeTimeJob.Schedule(this, inputDeps);
+        endSimulationEntityCommandBufferSystem.AddJobHandleForProducer(jobHandle);
+        return jobHandle;
+    }
 }
